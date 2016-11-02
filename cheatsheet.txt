@@ -7,3 +7,14 @@ cat : look at the files in the folder
 git commit: makes a snapshot that you can always go back to if you make a mistake at some point
 git push: sends it back to the git hub website
 git add (file name): makes git aware of the file. if you dont then it doesnt keep the changes to that file in the database. it specifies what files are in your repository.
+
+make my name thing appear beside the green, in blue: type cd alice2362 (space?) tab
+
+when you make a file you need to add the .txt after the name
+
+orders: 
+git add (name of file with the .txt)
+git commit -m "edited _____"
+git push
+d
+
