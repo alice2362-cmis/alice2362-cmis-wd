@@ -16,5 +16,6 @@ orders:
 git add (name of file with the .txt)
 git commit -m "edited _____"
 git push
-d
+
+when you save your file you need to save it in your repository folder.
 
