@@ -1,0 +1,9 @@
+gedit (file name): edit that file.
+gedit (anything): new file with that name
+use gedit AND terminal: gedit (file name) &
+
+ls (folder name): open that file and see the stuff in there
+cat : look at the files in the folder
+git commit: makes a snapshot that you can always go back to if you make a mistake at some point
+git push: sends it back to the git hub website
+git add (file name): makes git aware of the file. if you dont then it doesnt keep the changes to that file in the database. it specifies what files are in your repository.
