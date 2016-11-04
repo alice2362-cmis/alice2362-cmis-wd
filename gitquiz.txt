@@ -7,3 +7,4 @@
 7. Then type git add file.txt and enter.
 8. Type git commit -m "edited file.txt"  (or just any description of what change you've made to that file, between the two quotation marks).
 9. Type git push and type your github usrname and password, and enter.
+10. Leave the classroom with a smile on your face.
