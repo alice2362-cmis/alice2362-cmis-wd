@@ -1,10 +1,10 @@
 1. Come into the classroom
-2. Clone your repository by copy and pasting the cloning code you have sent to yourself by email onto terminal. Enter.
-3. After that, type: gedit file.txt and click enter to create the file called file.txt.
-4. Edit the file.txt however you like.
-5. Save the file after you've done editing it into your repository folder, and close.
-6. On terminal, type:  cd (name)(library number) , tab, and enter. (For me I would type:  cd alice2362  and then tab, enter.)
+2. Paste the command  git clone --config="http.proxy=http://alice2362:s0o2n0g3@192.168.2.1:8080" https://github.com/alice2362-cmis/alice2362-cmis-wd.git  onto terminal to clone. Click enter.
+3. Type: gedit file.txt and click enter to create the file called file.txt.
+4. Edit file.txt .
+5. Save file.txt after that I've done editing it(into my repository folder) and close the file.
+6. On terminal, type:  cd alice2362  and then tab, enter.
 7. Type:  git add file.txt  and enter, to make git aware of the file.
-8. Type:  git commit -m "edited file.txt"  (or just any description of what change you've made to that file, between the two quotation marks). This just makes a 'snapshot' that I can always go back to if I mess up my work.
-9. Type git push and type your github usrname and password, and enter. This sends the file back to the git hub website.
+8. Type:  git commit -m "edited file.txt"  (or just any description of what change I've made to that file, between the two quotation marks). This just makes a 'snapshot' that I can always go back to if I mess up my work.
+9. Type git push and type my github usrname (alice2362-cmis) and password in the appropriate places, and enter. This will send file.txt back to the git hub website.
 10. Leave the classroom with a smile on your face.
