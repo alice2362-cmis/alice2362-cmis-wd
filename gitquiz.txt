@@ -3,8 +3,8 @@
 3. After that, type: gedit file.txt and click enter to create the file called file.txt.
 4. Edit the file.txt however you like.
 5. Save the file after you've done editing it into your repository folder, and close.
-6. On terminal, type: cd (name)(library number), tab, and enter. (For me I would type: cd alice2362 and then tab, enter.)
-7. Then type git add file.txt and enter.
-8. Type git commit -m "edited file.txt"  (or just any description of what change you've made to that file, between the two quotation marks).
-9. Type git push and type your github usrname and password, and enter.
+6. On terminal, type:  cd (name)(library number) , tab, and enter. (For me I would type:  cd alice2362  and then tab, enter.)
+7. Type:  git add file.txt  and enter, to make git aware of the file.
+8. Type:  git commit -m "edited file.txt"  (or just any description of what change you've made to that file, between the two quotation marks). This just makes a 'snapshot' that I can always go back to if I mess up my work.
+9. Type git push and type your github usrname and password, and enter. This sends the file back to the git hub website.
 10. Leave the classroom with a smile on your face.
