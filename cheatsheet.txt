@@ -31,3 +31,5 @@ put <file name> : move that file from ur comp to remote computer (mr kieffer"s).
 http://cmis-hsteacher/~alice2362/(file name u've shared to public files) : see the file u shared with the remote computer
 (squiggle username: your public files)
 
+tip: when 'put'ing, you can just do put (first letter or two of the folder you're gonna 'put' if it's the only file in your repository folder that starts with that letter) and then tab, and it will just type the full name of the file for you. enter.
+
