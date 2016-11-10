@@ -17,5 +17,17 @@ git add (name of file with the .txt)
 git commit -m "edited _____"
 git push
 
-when you save your file you need to save it in your repository folder.
+	make an html folder and view it on localhost: 8000 :
+clone, make the terminal be based on your repository folder, create an html folder, edit files in it, save, validate, copy and paste the python code, view it on localhost: 8000
+
+	"turning" sth in:
+sftp alice2362@cmis-hsteacher
+type yes
+type ur username and password where necessary
+ls: files in ur public html folder. after 'put'ing u should be able to see that file in the ls
+!ls : show files in ur local comp
+put <file name> : move that file from ur comp to remote computer (mr kieffer"s). it's like turning it in
+
+http://cmis-hsteacher/~alice2362/(file name u've shared to public files) : see the file u shared with the remote computer
+(squiggle username: your public files)
 
