@@ -1,17 +1,48 @@
 html {
-	color: orange;
-	
+	color: purple;
+	background-color: #b3d9ff;
+}	
 h1 {
 	background-color: #c5f2f7;
-	font-family: arial;
+	font-family: Arial;
 	color: purple;
 	font-size: 40px;
-	border: sp;od 1px #b7c2ff
+	border: 3px solid #339966;
+	text-align: center;
+	text-decoration: underline;
+	<link rel="stylesheet" href="main.css" type="text/css"> 
 }
-p{
+h2 {
+	color: #2d2d86;
+	background-color: #e1b4e8;
+	border: 2px solid ##cc6699;
+	font-family: courier new;
+	font-size: 35px;
+	text-align: center;
+	letter-spacing: 15px;
+}
+p {
+	color: #3d5c5c;
 	background-color: #f7c5c5;
-	border: solid 1px #ccf7c5;
-	font-family: times new roman;
-	font-size: 30px; 
+	border: solid 2px #ccf7c5;
+	font-family: "Times New Roman"; Georgia, Serif; 
+	font-size: 20px; 
+	outline: #ffff80 dotted thick;
+	border-bottom: medium dotted #ff0000;
+	border-top: medium dotted #0000ff
 }
-
+/* Create a new file called "main.css"
+Add a link element to the head of your index.html file
+<link rel="stylesheet" href="main.css" type="text/css">
+Edit the main.css file
+add a declaration for each element in the body of your index.html file.
+add properties to style the background color of each element.
+add properties to style the border of each element.
+add properties to style the font and text of each element.
+Use at least 20 different properties. Include a list of these 20 at the TOP of your main.css file as a css comment.
+View your index.html in the development server.
+Validate your index.html file.
+Validate your main.css file.
+Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+Upload to the production server with sftp.
+View your index.html in the production server. */
