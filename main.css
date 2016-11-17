@@ -1,33 +1,49 @@
 html {
 	color: purple;
-	background-color: #b3d9ff;
+	background-image: url("http://www.reactiongifs.com/r/hsk.gif");
 }	
 h1 {
 	background-color: #c5f2f7;
-	font-family: Arial;
-	color: purple;
+	opacity: 0.7;
+	font-family: impact;
+	color: #462277;
 	font-size: 40px;
 	border: 3px solid #339966;
 	text-align: center;
-	text-decoration: underline;
+	letter-spacing: 5px;
+	padding-top: 1cm;
+	padding-bottom: 1cm;
+	text-shadow: 2px 2px #ffff4f;
 	<link rel="stylesheet" href="main.css" type="text/css"> 
 }
 h2 {
 	color: #2d2d86;
-	background-color: #e1b4e8;
-	border: 2px solid ##cc6699;
+	background-color: #cefffd;
+	opacity: 0.8;
+	border: 2px solid #cc6699;
 	font-family: courier new;
 	font-size: 35px;
+	text-decoration: underline;
 	text-align: center;
-	letter-spacing: 15px;
+	letter-spacing: 10px;
 }
 p {
-	color: #3d5c5c;
+	color: #ffffff;
 	background-color: #f7c5c5;
+	opacity: 0.7;
 	border: solid 2px #ccf7c5;
-	font-family: "Times New Roman"; Georgia, Serif; 
+	font-family: "Verdana"; 
 	font-size: 20px; 
-	outline: #ffff80 dotted thick;
+	max-width: 600px;
+	max-height: 300px;
+	margin-left: 11.5cm;
+	text-transform: uppercase;
+	text-align: center;
+	padding-top: 1cm;
+	padding-bottom: 1cm;
+	padding-left: 1cm;
+	padding-right: 1cm;
+	outline: #ffffff dotted thick;
 	border-bottom: medium dotted #ff0000;
 	border-top: medium dotted #0000ff
 }
