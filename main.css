@@ -1,49 +1,76 @@
+/* Color
+Cursor 
+Background-image
+Background-color
+Font-family
+Font-size
+Border
+Text-align
+Letter-spacing
+Padding
+Text-shadow
+Opacity
+Text-decoration
+max-width/height
+Margin
+Text-transform
+Outline
+Line height
+Font weight
+Background repeat
+*/
+/* One thing I learned was how to add a css comment. Another thing I learned was how to add a gif for my background by copy and pasting the gif address instead of saving it. */
 html {
 	color: purple;
-	background-image: url("http://www.reactiongifs.com/r/hsk.gif");
+	background-image: url("http://www.relativelyinteresting.com/wp-content/uploads/2014/12/penrose-triangle-illusion-gif.gif");
+	background-repeat: repeat;
+	cursor: crosshair;
 }	
 h1 {
-	background-color: #c5f2f7;
+	
 	opacity: 0.7;
 	font-family: impact;
-	color: #462277;
+	background-image: url("http://eskipaper.com/images/galaxy-wallpaper-tumblr-4.jpg");
+	color: #000000;
 	font-size: 40px;
-	border: 3px solid #339966;
+	border: 3px solid #ffffff;
 	text-align: center;
 	letter-spacing: 5px;
 	padding-top: 1cm;
 	padding-bottom: 1cm;
-	text-shadow: 2px 2px #ffff4f;
-	<link rel="stylesheet" href="main.css" type="text/css"> 
+	text-shadow: 3px 3px #ffff4f;
 }
 h2 {
 	color: #2d2d86;
-	background-color: #cefffd;
-	opacity: 0.8;
-	border: 2px solid #cc6699;
+	background-color: #c5f2f7;
+	opacity: 0.7;
+	border: 2px solid #ffffff;
 	font-family: courier new;
-	font-size: 35px;
+	font-size: 40px;
 	text-decoration: underline;
 	text-align: center;
 	letter-spacing: 10px;
 }
 p {
 	color: #ffffff;
-	background-color: #f7c5c5;
+	background-image: url("https://image.freepik.com/free-vector/polygonal-abstract-background-design_23-2147493966.jpg");
 	opacity: 0.7;
 	border: solid 2px #ccf7c5;
 	font-family: "Verdana"; 
 	font-size: 20px; 
+	text-shadow: 3px 3px #ff9198;
 	max-width: 600px;
 	max-height: 300px;
 	margin-left: 11.5cm;
 	text-transform: uppercase;
 	text-align: center;
+	line-height: 150%;
+	font-weight: bold;
 	padding-top: 1cm;
 	padding-bottom: 1cm;
 	padding-left: 1cm;
 	padding-right: 1cm;
-	outline: #ffffff dotted thick;
+	outline: #ffffff dotted;
 	border-bottom: medium dotted #ff0000;
 	border-top: medium dotted #0000ff
 }
