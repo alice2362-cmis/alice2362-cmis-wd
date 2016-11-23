@@ -12,29 +12,37 @@ h1 {
 	font-family: impact, charcoal bold;
 	font-style: italic;
 	color: yellow;
-	border: solid 5px #ffff00;
-	border-bottom: solid 5px dotted #ffff00;
+	border: solid 5px green;
+	border-bottom: thick dashed #ffff00;
 }
 
-p1 {
-	background-color: red;
-	font-family: impact, charcoal bold;
-	font-style: italic;
-	border: solid 2px yellow;
+p {
+	font-family: arial;
+	
 }
 
 h2 {
-	background-color: purple; 
+	background-color: red;
+	font-family: impact,charcoal;
+	font-style: italic;
+	font-size: 18px;
+	border: solid 2px yellow;
+	color: blue;
+	padding-top: 0.5cm;
+	padding-bottom: 0.5cm;
+	line-height: 200%;
 }
 
 h3 {
-	background-color: sth
+	background-color: purple;
+	color: yellow;
+	font-family: arial;	
+	font-size: 25px;
 }
-
-p3 {
-	color: sth
-}
-
-p4 {
-	what
+h4 {
+	background-color: yellow;
+	color: purple;
+	font-family: arial;
+	font-size: 20px;
+	border-top: medium dashed purple;
 }
