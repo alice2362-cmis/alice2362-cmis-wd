@@ -1,0 +1,58 @@
+html {
+	color: blue;
+	background-color: pink;
+	border-left: 30px dotted red;
+}
+
+main {
+	background-color: red;
+}
+
+h1 {
+	background-color: #99ddff;
+	font-family: times new roman;
+	color: red;
+	font-size: 50px;
+	text-decoration: underline;
+	text-decoration-color: black;
+	border-bottom: 5px solid black;
+} 
+
+p1 {
+	font-family: times new roman;
+	border-top: 2px dotted green;
+}
+
+h2 {
+	background-color: #99ddff;
+	font-family: arial;
+	text-decoration: underline;
+	font-size: 15px;
+	color: blue;
+	border-top: 2px dotted green;
+	border-bottom: 30px dotted #ff0000;
+}
+h3 {
+	font-family: times new roman;
+	color: white;
+	background-color: blue;
+	color: white;
+	background-color: blue;	
+}
+
+h4 {
+	font-family: arial;
+	color: white;
+	background-color: blue;
+	font-family: arial;
+	color: white;
+	background-color: blue;
+}
+
+h5 {
+	font-family: times new roman;
+	font-style: bold;
+	color: black;
+	background-color: red;
+	padding-left: 1cm;
+}
