@@ -26,10 +26,32 @@ type yes
 type ur username and password where necessary
 ls: files in ur public html folder. after 'put'ing u should be able to see that file in the ls
 !ls : show files in ur local comp
+
+type: cd public_html/
 put <file name> : move that file from ur comp to remote computer (mr kieffer"s). it's like turning it in
 
 http://cmis-hsteacher/~alice2362/(file name u've shared to public files) : see the file u shared with the remote computer
 (squiggle username: your public files)
 
 tip: when 'put'ing, you can just do put (first letter or two of the folder you're gonna 'put' if it's the only file in your repository folder that starts with that letter) and then tab, and it will just type the full name of the file for you. enter.
+
+add link:
+<nav>	
+	<ul or ol>
+		<li> <a href="/nameoffile.html/">html</a> </li>
+	</ul or /ol>
+</nav>
+
+html
+head
+title
+<meta charset="utf-8" />
+link to css if needed
+body
+header
+nav
+main
+h's
+p
+close main
 
