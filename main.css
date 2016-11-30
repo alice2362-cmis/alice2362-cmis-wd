@@ -19,6 +19,21 @@ Line height
 Font weight
 Background repeat
 */
+/* Create a new file called "main.css"
+Add a link element to the head of your index.html file
+<link rel="stylesheet" href="main.css" type="text/css">
+Edit the main.css file
+add a declaration for each element in the body of your index.html file.
+add properties to style the background color of each element.
+add properties to style the border of each element.
+add properties to style the font and text of each element.
+Use at least 20 different properties. Include a list of these 20 at the TOP of your main.css file as a css comment.
+View your index.html in the development server.
+Validate your index.html file.
+Validate your main.css file.
+Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+Upload to the production server with sftp.
+View your index.html in the production server. */
 /* One thing I learned was how to add a css comment. Another thing I learned was how to add a gif for my background by copy and pasting the gif address instead of saving it. */
 html {
 	color: purple;
@@ -51,6 +66,19 @@ h2 {
 	text-align: center;
 	letter-spacing: 10px;
 }
+h3 {
+	color: #000000;
+	background-color:  #faff82; 
+	font-family: arial black;
+	opacity: 0.8;
+	border: solid 3px #ffffff;
+	text-align: center;
+	max-width: 400px;
+	padding-top: 1cm;
+	padding-bottom: 1cm;
+	margin-left: 15cm;
+	
+}
 p {
 	color: #ffffff;
 	background-image: url("https://image.freepik.com/free-vector/polygonal-abstract-background-design_23-2147493966.jpg");
@@ -74,18 +102,4 @@ p {
 	border-bottom: medium dotted #ff0000;
 	border-top: medium dotted #0000ff
 }
-/* Create a new file called "main.css"
-Add a link element to the head of your index.html file
-<link rel="stylesheet" href="main.css" type="text/css">
-Edit the main.css file
-add a declaration for each element in the body of your index.html file.
-add properties to style the background color of each element.
-add properties to style the border of each element.
-add properties to style the font and text of each element.
-Use at least 20 different properties. Include a list of these 20 at the TOP of your main.css file as a css comment.
-View your index.html in the development server.
-Validate your index.html file.
-Validate your main.css file.
-Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
-Upload to the production server with sftp.
-View your index.html in the production server. */
+
