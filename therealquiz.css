@@ -1,0 +1,58 @@
+html {
+	background-color: red;	
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+header {
+	background-color: blue;
+	font-family: times new roman; 
+	color: yellow;
+}
+
+header p {
+	color:white;
+	font-family: arial;
+}
+
+h1 {
+	color: yellow;
+	font-family: impact;
+	border-left: solid 50px yellow;
+}
+
+ul li {
+	text-decoration: line-through;
+	border: white;
+	margin-left: 50px;
+	font-size: small;
+}
+
+main {
+	background-color: white;
+	color: black;
+}
+
+h2 {
+	font-family: Trebuchet MS;
+	border-right: solid 100px green;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+ol li{
+	border: 2px dotted black;
+	margin-left: 50px;	
+	margin-right: 50px;
+}
+
+main p { 
+	font-family: times new roman;
+	text-decoration: underline;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+footer {
+	background-color: blue;
+	font-family: arial;
+	color: white;
