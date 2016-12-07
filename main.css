@@ -41,7 +41,7 @@ html {
 	background-repeat: repeat;
 	cursor: crosshair;
 }	
-h1 {
+h1, h2 {
 	
 	opacity: 0.7;
 	font-family: impact;
@@ -54,24 +54,12 @@ h1 {
 	padding-top: 1cm;
 	padding-bottom: 1cm;
 	text-shadow: 3px 3px #ffff4f;
-	margin-left: 10cm;
+	margin-left: 10.7cm;
 	margin-right: 10cm;
+	width: 20cm;
+	max-height: 2cm;
 }
-h2 {
-	color: #2d2d86;
-	background-color: #c5f2f7;
-	opacity: 0.7;
-	border: 2px solid #ffffff;
-	font-family: courier new;
-	font-size: 40px;
-	text-decoration: underline;
-	text-align: center;
-	letter-spacing: 10px;
-	margin-left: 16cm;
-	margin-right: 16cm;
-	padding-top: 5px;
-	padding-bottom: 5px;
-}
+
 h3 {
 	color: #000000;
 	background-color:  #faff82; 
@@ -83,9 +71,10 @@ h3 {
 	padding-top: 1cm;
 	padding-bottom: 1cm;
 	margin-left: 15.5cm;
-	
+	max-height: 3cm;
 }
-p {
+
+main p {
 	color: #ffffff;
 	background-image: url("https://image.freepik.com/free-vector/polygonal-abstract-background-design_23-2147493966.jpg");
 	opacity: 0.7;
@@ -108,13 +97,34 @@ p {
 	outline: #ffffff dotted;
 	border-bottom: medium dotted #ff0000;
 	border-top: medium dotted #0000ff
+	width: 23cm;
+	max-height: 5cm;
 }
 
-ul {
+main ul{
 	font-family: arial;
 	font-size: 13px;
 	color:  #b3ffd9;
 	border: solid 2px #ffffff;
 	margin-left: 10cm;
 	margin-right: 10cm;
+	padding-right: 5px;
+	padding-top: 10px;
+	padding-bottom:10px;
+	max-width: 20cm;
+	max-height: 10cm;
+}
+
+nav {
+	background-color: black;
+	border: solid 3px salmon;	
+	margin-left: 10cm;
+	margin-right: 10cm;
+}
+
+ul {
+	font-family: comic sans ms;
+	padding-left: 30px;
+	max-width: 20cm;
+	max-heigh: 5cm;
 }
