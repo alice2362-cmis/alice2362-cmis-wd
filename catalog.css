@@ -1,14 +1,36 @@
 html {
 	background-color: #e2c8ac;
-	
+	margin-left:10cm;
+	margin-right: 10cm;
 }
 
 header {
-	color: #12103d;
-	background-color: #f7f4b4;
+	background-color: #d2dff2;	
+	border: solid 7px white;
+	outline: #ffffff dotted;
 }
 
-h1 {
-	color: #a8646d;
-	font-
+h1, h2 {
+	color: #261d18;
+	font-family: arial black;
+	text-align: center;
+}
+
+header p {
+	color: #050B36;
+	font-family: Trebuchet MS;
+	text-align: center;
+}
+
+main {
+	border: solid 7px white;
+	outline: white dotted;
+	background-color: #f2e7d2;
+}
+
+main p {
+	color: #c9666e;
+	font-family: verdana;
+	text-align: center;
+	
 }
