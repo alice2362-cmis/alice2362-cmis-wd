@@ -1,19 +1,37 @@
 html {
-	background-color: #e2c8ac;
+	background-image: url("http://www.walldevil.com/wallpapers/a78/background-wallpapers-winter-wallpaper-simple.jpg");
 	margin-left:10cm;
 	margin-right: 10cm;
 }
 
 header {
-	background-color: #d2dff2;	
-	border: solid 7px white;
-	outline: #ffffff dotted;
+	background-image: url("http://il3.picdn.net/shutterstock/videos/12903878/thumb/1.jpg");
+	border: solid 7px #564840;
+	outline: #564840 dashed;
 }
 
 h1, h2 {
-	color: #261d18;
-	font-family: arial black;
+	color: white;
+	font-family: courier new;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	text-align: center;
+	font-size: 30px;
+}
+
+h3 {
+	color: #000000;
+	font-family: georgia;
+	border: solid 2px #cca978;
+	border-top: dotted;
+	border-bottom: dotted;
+	background-color: #c4ab89;
+	margin-left: 6cm;
+	margin-right: 6cm;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	
 }
 
 header p {
@@ -22,15 +40,62 @@ header p {
 	text-align: center;
 }
 
+body {
+	border: dashed 10px #cec0b9;	
+}
+
 main {
-	border: solid 7px white;
-	outline: white dotted;
-	background-color: #f2e7d2;
+	border: solid 7px #564840;
+	outline: #564840 dashed;
+	background-color: #c9b9b1;
+	padding-bottom: 1cm;
 }
 
 main p {
-	color: #c9666e;
+	color: #261e1a;
 	font-family: verdana;
 	text-align: center;
-	
+	margin-left: 2cm;
+	margin-right: 2cm;
+	border-top: #d2ddc5 2px dotted;
+	border-bottom: #d2ddc5 2px dotted;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+img {
+	border: dotted 2px grey;
+	border-radius: 250px;
+	margin-left: 8cm;
+}
+
+ul {
+	background-color: #e5d7d0;
+	margin-left: 5cm;
+	margin-right: 5cm;
+	border: solid 3px #b5a299;
+}
+li {
+	color: black;
+	font-family: courier new;	
+	border-top: white dotted 2px;
+	border-bottom: white dotted 2px;
+}
+
+a {
+	font-family: arial;
+}
+
+nav {
+	padding-left: 9.3cm;
+	font-family: arial;
+}
+
+footer {
+	color: black;
+	font-family: times new roman;
+	text-align: right;
+	padding-right: 1cm;
+	padding-top: 10px;
+	font-size: small;
 }
