@@ -96,7 +96,7 @@ main p {
 	padding-right: 1cm;
 	outline: #ffffff dotted;
 	border-bottom: medium dotted #ff0000;
-	border-top: medium dotted #0000ff
+	border-top: medium dotted #0000ff;
 	width: 23cm;
 	max-height: 5cm;
 }
@@ -123,14 +123,22 @@ nav {
 }
 
 ul {
-	font-family: comic sans ms;
-	max-width: 20cm;
 	max-height: 5cm;
+	border: 2px dotted white;
+	background-color: grey;
+	margin-left: 7cm;
+	margin-right: 7cm;
 }
 
 li {
 	color: white;
 	font-family: arial;
 	border: 3px white;
-	background-color: black;
+}
+
+ol {
+	border: 2px dotted white;
+	margin-left: 7cm;
+	margin-right: 7cm;
+	background-color: grey;
 }
