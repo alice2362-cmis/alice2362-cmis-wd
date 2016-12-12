@@ -124,7 +124,13 @@ nav {
 
 ul {
 	font-family: comic sans ms;
-	padding-left: 30px;
 	max-width: 20cm;
-	max-heigh: 5cm;
+	max-height: 5cm;
+}
+
+li {
+	color: white;
+	font-family: arial;
+	border: 3px white;
+	background-color: black;
 }
